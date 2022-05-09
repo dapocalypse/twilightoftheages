@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PopsimManager
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=factionIndex\ valueIndex\ ammount
+comment10.target=void\ addPopGroupValueModifier(int,\ int,\ int)
+comment11.params=factionIndex\ valueIndex
+comment11.target=int\ getPopGroupValue(int,\ int)
+comment2.params=
+comment2.target=void\ initialise()
+comment3.params=
+comment3.target=void\ loadCompatibility()
+comment4.params=
+comment4.target=double[]\ getFactionPopularities()
+comment5.params=x\ y\ ammount
+comment5.target=void\ modifyModifierTable(int,\ int,\ int)
+comment6.params=index\ ammount
+comment6.target=void\ modifyPopGroupDistribution(int,\ int)
+comment7.params=index
+comment7.target=int\ getPopGroupDistribution(int)
+comment8.params=factionIndex\ valueIndex\ ammount
+comment8.target=void\ addFactionValueModifier(int,\ int,\ int)
+comment9.params=factionIndex\ valueIndex
+comment9.target=int\ getFactionValue(int,\ int)
+numComments=12

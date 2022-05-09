@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ValueSet
+comment1.params=posName\ negName
+comment1.target=ValueSet(java.lang.String,\ java.lang.String)
+numComments=2

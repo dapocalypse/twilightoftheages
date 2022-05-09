@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PopGroup
+comment1.params=name\ valueSet\ values\ radicalization
+comment1.target=PopGroup(java.lang.String,\ java.util.ArrayList,\ int[],\ int)
+comment2.params=faction
+comment2.target=int\ getCompatability(Faction)
+comment3.params=index\ ammount
+comment3.target=void\ modifyValue(int,\ int)
+comment4.params=index
+comment4.target=int\ getValue(int)
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Value
+comment1.params=set\ scaleValue
+comment1.target=Value(ValueSet,\ int)
+comment2.params=
+comment2.target=void\ clampScale()
+comment3.params=
+comment3.target=int\ getPosValue()
+comment4.params=
+comment4.target=int\ getNegValue()
+comment5.params=ammount
+comment5.target=void\ modifyValue(int)
+numComments=6

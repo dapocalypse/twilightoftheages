@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Faction
+comment1.params=name\ valueSet\ values
+comment1.target=Faction(java.lang.String,\ java.util.ArrayList,\ int[])
+comment2.params=
+comment2.target=java.util.ArrayList\ getValues()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=index\ ammount
+comment4.target=void\ modifyValue(int,\ int)
+comment5.params=index
+comment5.target=int\ getValue(int)
+numComments=6

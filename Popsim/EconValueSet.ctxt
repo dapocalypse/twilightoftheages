@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EconValueSet
+comment1.params=posName\ negName\ thirdValue
+comment1.target=EconValueSet(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
