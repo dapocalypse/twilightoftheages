@@ -1,0 +1,30 @@
+(It is recomended you do a PRF-C playthrough before this.)
+
+The idiots in the upper party debate 'private schooling' and 'Common Revolutionary Curricula' while
+ignoring one key issue, the rights of the States themselves. Or at least that's the line that 
+resonates the most with our constituents. The reality is that, despite supporting free and 
+competitive markets, much of the the Ultrafederalist faction is funded by monopolistic Syndicates.
+Our benefactors don't quite like the recent attention when it comes to this education buisiness.
+~
+Faceless party bureaucrats telling private buisinesses what to do is C. E. N. T. R. A. L. I. S. M.
+~
+Maybe those party officials should be releasing funds to states to better manage our own curricula.
+~
+Look, I'm not saying we centralise education or anything but maybe a little direction is a good
+thing.
+~
+Maybe if we had some actual market competition here things wouldn't be so bad.
+(Our funding hates this but our base LOVES this).
+~
+-1,1,1,-1,1
+0
+0,0,0,0,0
+-1,2,1,-2,-1
+0
+0,0,0,0,0
+1,-1,-1,2,1
+0
+0,0,0,0,0
+-2,2,1,-1,-1
+0
+0,0,0,0,0
