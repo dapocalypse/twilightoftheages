@@ -1,0 +1,27 @@
+The Upper Party has recently been debating the issue of private schools. Almost all are 
+organized under the National Education and Research Board, the Syndicate primarily 
+responsible for Education and Research, however there is little to no oversight. 
+Worrying still are horror stories of Terra Novan parents sending their children to learn
+about all kinds of centralism and Counter-Revolution, but many say that this sort of
+thing is blown out of proportion.
+~
+We'll talk with the National Education and Research Board to get better oversight.
+~
+We'll make sure local governments have the money they need to fund better programs.
+~
+This is blown waaaay out of proportion.
+~
+It sounds to me like we need party regulations on this sort of thing.
+~
+1,0,-1,1,1
+0
+0,0,0,0,0
+-2,1,1,1,1
+0
+0,0,0,0,0
+-1,0,2,-2,-2
+0
+0,0,0,0,0
+1,-2,-2,2,1
+0
+0,0,0,0,0

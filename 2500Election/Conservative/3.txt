@@ -1,0 +1,30 @@
+At the end of the Great Galactic War we walked arm and arm with the Sovereingty of Rou'ii,
+but like all good things our friendship has come to a close. With the recent arrest of
+the Rou'ii funded and illegal "Orion Aquanationalist Party," its clear that the Bao'i
+would have their tenticles extend across our great society. The question now is how
+to handle their influence domestically while battling their influence abroad.
+~
+This is blown out of proportion, the OAP was one isolated incident,
+they know their tactics won't work.
+~
+The Committee for Revolutionary Security should watch out but no
+adjustments are needed.
+~
+We should have been investigating all executive, local, and party
+offices yesterday.
+~
+Anyone could be an Aquanationalist, your neighbor, your teacher, even
+your mom or dad.
+~
+-1,-1,-1,-1,3
+0
+0,0,0,0,0
+1,0,1,-1,1
+0
+0,0,0,0,0
+2,-1,0,1,1
+0
+0,0,0,0,0
+-1,-2,-2,2,2
+0
+0,0,0,0,0

@@ -1,0 +1,31 @@
+With the end of the Great Galactic War and the Galactic Order of the Imperial State of Maahes,
+there has been an influx of refugees. There have been many questions as to how to best handle
+the situations, both domestically and abroad. Domestically, many of the refugees had taken places
+within the complex Maahesian caste systems as both slaves and slave holders, causing resentment and
+tensions among refugee neighborhoods. In addition, our current open policy towards refugees greatly
+upsets the current political order established, and while they are significantly weaker than before
+the war, they are still a great power and on the edge of neutrality between the Rou'ii and Orion.
+~
+We should be encouraging, but not requiring, repatriation, coupled with generous aid packages...
+attached with strings.
+~
+Any man or woman who finds themselves within Orion space is free and finds themselves entitled
+to certain rights, we won't be forcing any refugees back.
+~
+We'll put together a committee to properly integrate with the people we have currently,
+but we'll be closing future borders.
+~
+Letting them stay is too big a risk, the war is over and we'll be sending notices to return.
+~
+1,0,1,1,-1
+0
+0,0,0,0,0
+-1,1,1,-1,-1
+0
+0,0,0,0,0
+1,0,-1,1,1
+0
+0,0,0,0,0
+-2,-1,-1,-1,2
+0
+0,0,0,0,0

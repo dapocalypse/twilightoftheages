@@ -1,0 +1,30 @@
+Recently a student activist from Terra Nova named Antonio Roman was arrested for displaying 
+the flag of the United Nations, a common symbol of Earther Tyranny, in protest of the recent
+People's Federal Tribunal Decision to reject the appeal of the judgement against the organizers
+of the recent United Miner's Strike, a week long strike and seige on Hephaestus. Many within 
+the League support the arrest, arguing that the use of the flag is distasteful and 
+unethical, others say that Roman was exercising free speech, a human right guaranteed by the
+Revolution. Discussion has also been sparked on the use of earther iconography in historical State
+symbols.
+~
+Actions have consequences, you pull something like this, and you face repercussions.
+~
+Roman was certainly out of line here, but he should be free to say what he wants.
+~
+Maybe we should put together a committee to investigate centralism in State symbols.
+~
+State symbols don't represent earther oppression, they represent local identity,
+no need to cause a rucus.
+~
+1,-1,-1,2,1
+0
+0,0,0,0,0
+-1,1,1,-1,-1
+0
+0,0,0,0,0
+-2,-2,-1,2,2
+0
+0,0,0,0,0
+-1,1,1,-2,1
+0
+0,0,0,0,0
