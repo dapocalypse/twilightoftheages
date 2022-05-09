@@ -1,0 +1,30 @@
+A declaration of war requires: a 4/5 majority of the First Party Committee, a majority of the 
+National Presidium and a majority of the General Assembly. Of the Presidium and the Assembly,
+one must be a two thirds majority. When our young federation barely clung to life on the Persues 
+arm this may have been neccessary, but being the Galaxies primary defense against tyranny this may 
+need to change, as we would  rapidly seek to respond to threats to peace and security across the 
+Milky Way. This is the view of some, more militaristic elements, of the faction, but others believe
+in the pursuit of peace, and that things should stay the way they are.
+~
+An international federation of Revolutionary Fronts across the Galaxy should have the power to raise
+volunteer brigades to fight for freedom and Revolution.
+~
+The Great Galactic War is over, its time for peace, not more fighting.
+~
+Maybe not lower the treshold to declare war but the Presidium should be able to authorize the Premier
+to sell military drawdowns and deploy guard elements to friends and allies.
+~
+The Premier along should have the power to deploy guard elements to friends and allies.
+~
+-1,1,1,2,-2
+0
+0,0,0,0,0
+-1,-1,1,-2,-1
+0
+0,0,0,0,0
+1,0,-1,1,1
+0
+0,0,0,0,0
+1,0,-2,2,1
+0
+0,0,0,0,0

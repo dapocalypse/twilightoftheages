@@ -1,0 +1,28 @@
+Talks of a Pan-Human free trade zone have emerged among the halls of the upper party, this would result
+in a complete absense of any tarrif or excise on imported or exported goods among the Human Galactic
+Community. This would be a huge bennefit for free trade, and it would put Orion at a position of
+considerably greater wealth, however concerns have been raised about the labor practices in Arcturus,
+of which we would essentially profit from, not to mention the Syndicates will have to compete with 
+foreign firms.
+~
+We can really use the extra revenue to create new federal programs to really help people.
+~
+The cost would be too high, our credits shall not be drenched in blood.
+~
+We need to protect our domestic industries from moving overseas, this is bad news.
+~
+We could attach conditions to a free trade zone, bringing political changes which better suit our
+interests.
+~
+1,-1,1,1,-1
+0
+0,0,0,0,0
+-1,1,1,-1,1
+0
+0,0,0,0,0
+2,-2,-1,-1,1
+0
+0,0,0,0,0
+1,-1,1,1,1
+0
+0,0,0,0,0

@@ -1,0 +1,29 @@
+Drug laws are wildly inconsistent from State to State. On Clark for example, almost anything is
+permitted, from hemp to cocaine to Krantokan Zro. On other worlds like Arclight or Sanctuary have
+extremely harsh laws. This has resulted in a result in increased trafficking to places where they
+aren't legal to places where they are, and a corresponding increase in law enforcement presense. 
+On one hand we could look back federal legislation, which would make drug laws uniform and potentially
+allow us to push uniform aid programs, or we could look into legalisation.
+~
+Things are fine as they are, if the people of Clark want to keep some things legal and the people of
+Arclight don't who are we to stop them.
+~
+Look, these things hurt people and communities, the only way we are going find a solution would be to
+stop them from being produced on places like Clark or Hagia.
+~
+Just an excuse to put people into penal labor, we should be stoping this.
+~
+Theres an easy solution to this and its to hold checkpoints in each system between states.
+~
+-1,1,1,-1,-2
+0
+0,0,0,0,0
+1,-1,1,1,1
+0
+0,0,0,0,0
+-2,1,2,-2,-1
+0
+0,0,0,0,0
+1,-1,1,1,1
+0
+0,0,0,0,0

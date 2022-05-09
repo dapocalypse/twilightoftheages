@@ -1,0 +1,26 @@
+The People's Federal Tribunal is the highest and only federal court in Orion.
+Among the general public it has the reputation of a fair and impartial committee,
+but this isn't exactly true. Tribune Brys Keres, the Chief Tribune, has certain hardliner
+sympathies, and her procedures aren't exactly known. Her judgements have been brutal
+at times, but none of this is really talked about outside the Upper Party.
+~
+We should be keeping quiet about this.
+~
+We should be keeping quiet about this.
+~
+We should be keeping quiet about this.
+~
+The court isn't all that fair you all know?
+~
+0,0,0,0
+0
+0,0,0,0
+0,0,0,0
+0
+0,0,0,0
+0,0,0,0
+0
+0,0,0,0
+-3,0,2,-3,-3
+0
+0,0,0,0

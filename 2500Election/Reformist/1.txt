@@ -1,0 +1,30 @@
+The Ministry of the Treasury has historically relied upon state governments or local
+party offices for Federal tax collection. With the recent case of Suzy Ray, the chair of
+the Arclight Tax Commission, having been revealed to have accepted millions of credits in
+payouts in exchange for reduction in auditing expenditures, many are questioning the MoTs
+existing strategy when it comes to tax collection.
+~
+The current system allows big-wig syndicate bureaucrats to steal from honest and hard-working
+revolutionaries. We should have federal agencies collect federal taxes
+~
+A clear demonstration on the death of competitive markets, companies shouldn't have the
+influence to do this sort of thing.
+~
+Don't get me wrong, the people responsible should be prosecuted, but theres a point here, we
+are stifling industrial growth with high federal taxes which would be otherwise used to help people.
+~
+And we would trust King Korolev? (Caution: Korolev is deeply popular, but setting the
+groundwork here could make it easier to reveal centralist tendencies later.)
+~
+1,-1,1,1,-1
+0
+0,0,0,0,0
+-1,1,1,-1,0
+0
+0,0,0,0,0
+1,1,-1,-1,1
+0
+0,0,0,0,0
+-2,-2,-2,-2,-2
+0
+0,0,0,0,0
