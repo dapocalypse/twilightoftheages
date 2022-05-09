@@ -1,0 +1,33 @@
+As a measure to prevent tyranny like the days of Earth, our founders have mandated by the very
+Constitution that each State is to maintain and manage their own Planetary Revolutionary Guards.
+During the course of the war efforts to centralise the administration of these Guards with the
+Orion Revolutionary Guard has found success, we worry that this will become a worrying trend
+where big wig States like Sanctuary or Terra Nova will be able to boss around smaller states and
+have them act in the manner of their liking. That being said certain elements of cooperation have
+been helpful during the Great Galactic War, especially on New Deseret where Orion Guard elements
+were inserted into the local guard to boost effectiveness against the Rak invaders.
+~
+There is to be no federal interference in the administration of local Planetary Guards. These are
+the States responsibility and theirs alone.
+~
+While integration of command is certainly a travesty of centralism there is use in fair equipment
+distributions and optional training contracts between States and the Federal Government.
+~
+The days where military force was a neccessity to fend off an overtly centralist government is now
+over, the current arrangement is not too restrictive on states and also helps efficiency.
+~
+In my personal opinion, we should be privatizing parts of the guards to save costs and maintain good
+relations with the defense industry.
+~
+-1,2,-1,1,-2
+0
+0,0,0,0,0
+1,1,1,-1,-1
+0
+0,0,0,0,0
+2,-2,-1,1,1
+0
+0,0,0,0,0
+1,1,-2,-2,1
+0
+0,0,0,0,0

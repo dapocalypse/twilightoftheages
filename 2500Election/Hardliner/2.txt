@@ -1,0 +1,27 @@
+Constitutionally the arrangement between the federal government and the states has been that the
+federal government exercises control over the star systems surrounding states and the systems 
+between states which are considered part of the League. Things like customs are handled at the 
+orbital ports, which are federally operated, despite directly relating to the affairs of the 
+states themselves.
+~
+This arrangment has worked for a century, we don't need to change it do we?
+~
+I think its due time that we hand the administration of the surrounding systems over
+to the states.
+~
+Maybe they should be contracted out to the Syndicates.
+~
+Yea, and we ought to hand over mineral exploitation rights in the systems too.
+~
+1,-2,0,1,-1
+0
+0,0,0,0,0
+-1,2,1,1,1
+0
+0,0,0,0,0
+2,-1,-1,-1,1
+0
+0,0,0,0,0
+-2,3,1,-1,-1
+0
+0,0,0,0,0
